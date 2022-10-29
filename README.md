@@ -169,5 +169,7 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Ibrahim Ibrahim | Email: [Isquare007](mailto:akibrahiim2019@gmail.com) 
+Ibrahim Ibrahim | Email: [Isquare007](mailto:akibrahiim2019@gmail.com)
+
+Adelakun Kehinde | Email: [iamkenny-dev](mailto:adelakunmoyok@gmail.com)
 
