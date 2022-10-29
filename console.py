@@ -21,7 +21,7 @@ class HBNBCommand(cmd.Cmd):
 
     def _precmd(self, line):
         """Intercepts commands to test for class.syntax()"""
-        # print("PRECMD:::", line).
+        # print("PRECMD:::", line)
         match = re.search(r"^(\w*)\.(\w+)(?:\(([^)]*)\))$", line)
         if not match:
             return line
