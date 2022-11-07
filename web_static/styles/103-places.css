@@ -110,7 +110,8 @@ section.places article .reviews ul {
 
 section.places article .amenities ul li.pet,
 section.places article .amenities ul li.tv,
-section.places article .amenities ul li.wifi {
+section.places article .amenities ul li.wifi,
+section.places article .amenities ul li.power {
     background-repeat: no-repeat;
     background-position: center left;
     background-size: 30px;
@@ -127,6 +128,10 @@ section.places article .amenities ul li.tv {
     }
 section.places article .amenities ul li.wifi {
     background-image: url("../images/icon_wifi.png");
+    background-repeat: no-repeat;
+}
+section.places article .amenities ul li.power {
+    background-image: url("../images/icon_power.png");
     background-repeat: no-repeat;
 }
 
