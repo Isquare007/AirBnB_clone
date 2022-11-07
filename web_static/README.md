@@ -19,3 +19,4 @@ This is the link to the github [deployed web  page](https://isquare.github.io/Ai
 
 ## DONE BY
 :man_technologist: Ibrahim Ibrahim
+:man_technologist: Adelakun Kehinde
