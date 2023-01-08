@@ -7,7 +7,7 @@
 
 The first step is to “design” / “sketch” / “prototype” each element:
 
-Create simple HTML static pages
+Create simple HTML static pages.
 Style guide
 Fake contents
 No Javascript
